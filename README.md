@@ -21,7 +21,6 @@ claude plugin install <skill-name>@<skill-name>
 | **[broker-realtime-push](https://github.com/Verstige/broker-realtime-push)** | Give a REST-only broker a live feed. One server-side poll fans out deltas to every open tab over SSE, instead of each browser tab polling the broker on its own. · [$9 on Agensi](https://agensi.io/skills/realtime-trading-data-sse-fan-out-for-rest-brokers) |
 | **[broker-contract-sizes](https://github.com/Verstige/broker-contract-sizes)** | Stop your P&L disagreeing with your broker. The verification workflow for contract sizes, why every broker differs, and how to audit a table that survived a broker migration. · [$12 on Agensi](https://agensi.io/skills/contract-sizes-make-your-p-l-match-the-broker) |
 | **[trading-chart-debugging](https://github.com/Verstige/trading-chart-debugging)** | Fix trading dashboards that render wrong with a clean build. The class of bugs where the DOM is correct and the CSS is live, but the chart is blank, collapsed, or covered. · [$12 on Agensi](https://agensi.io/skills/trading-charts-that-render-fix-the-blank-canvas) |
-| **[human-trader-signal-pipeline](https://github.com/Verstige/human-trader-signal-pipeline)** | Put humans into an automated signal pipeline. A trader role that shares the bot data path, gets badged in the community, mirrors to a channel, and lands in a public signal log. · [$9 on Agensi](https://agensi.io/skills/human-signal-desk-traders-on-a-bot-pipeline) |
 
 ### Shipping and deployment
 
@@ -96,7 +95,6 @@ claude plugin install <skill-name>@<skill-name>
 
 ## Other work
 
-- [verstige-skills](https://github.com/Verstige/verstige-skills) — the full Claude Code marketplace: 65 skills, one plugin each, with provenance and privacy gates in the build.
 
 ## Contact
 
